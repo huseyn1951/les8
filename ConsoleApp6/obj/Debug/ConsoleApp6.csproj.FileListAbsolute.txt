@@ -1,0 +1,6 @@
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\tural\OneDrive\Рабочий стол\projects\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
